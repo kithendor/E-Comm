@@ -1,0 +1,12 @@
+body{background-color:grey;}
+.cont{background-color: red;
+	width: 80%;
+	margin:0 auto;
+}
+.titlediv{padding: 15px 0 5px 0;
+	background-color: darkgrey;
+	}
+
+.imgclass{background-color: white;}
+
+.imgclass p{font-size: 8px;font-family: verdana;}

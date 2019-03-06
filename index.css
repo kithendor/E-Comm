@@ -1,0 +1,15 @@
+body{background-color: lightblue;}
+h1{text-align: center;
+	color: yellow;
+}	
+p{
+	text-align: justify;
+}
+
+.par1{background-color: red;}
+.par2{background-color: blue;}
+
+#txt1{color: yellow;}
+#txt2{color: green;}
+#txt3{color: blue;}
+
